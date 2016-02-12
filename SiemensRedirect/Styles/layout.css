@@ -1,0 +1,16 @@
+﻿body {
+    background-color: #AFB4BE;
+}
+
+.panel-info{
+    position: relative;
+    margin:0 auto;
+
+    background-color: #ffffff;
+    width:70%;
+    max-width:1000px;
+    height:400px;
+    top:50%;
+    border: thin;
+    border-color: #666666;
+}
